@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.odis.tv.app",
+    "sha256_cert_fingerprints":
+    ["2B:84:A1:2F:3F:D5:C9:D4:19:CA:2D:9A:06:C9:69:5B:6C:87:50:9E:FA:C1:90:DD:6A:87:81:90:6C:9C:E6:C0"]
+  }
+}]
